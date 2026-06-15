@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project studies and implements a two-user Code Division Multiple Access (CDMA) communication system using Gold sequences. The system is evaluated under both Additive White Gaussian Noise (AWGN) and Rayleigh fading channels to analyze communication reliability and bit error rate (BER) performance.
+This project studies and implements a Code Division Multiple Access (CDMA) communication system using Gold sequences. The system is evaluated under both Additive White Gaussian Noise (AWGN) and Rayleigh fading channels to analyze communication reliability and bit error rate (BER) performance.
 
 ## Objectives
 
