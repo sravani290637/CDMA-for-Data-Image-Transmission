@@ -18,6 +18,17 @@ This project studies and implements a Code Division Multiple Access (CDMA) commu
 ### Receiver
 ![CDMA Receiver](images/Receiver_Architecture.png)
 
+## Theory
+### PN Sequence Generation
+### Gold Sequence Generation
+### BPSK Modulation
+### Two-User CDMA System
+### Text Transmission Using CDMA
+### Image Transmission Using CDMA
+### CDMA in Noisy Channels
+### Performance over AWGN and Rayleigh Fading Channels
+### BER vs SNR Analysis
+
 ## Results
 - Successful recovery of transmitted image and text data.
 - Gold sequences demonstrated improved user separation compared to standard PN sequences.
